@@ -4,10 +4,12 @@
 	Typography
 -------------------------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Play'); 
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Play');
 
-body{ 
-font-family: 'Play', sans-serif;
+body{
+	font-family: 'Play', sans-serif;
+	background-image: url("/images/backgrounds/1.jpg");
+	background-color: #cccccc;
 }
 p {
 	font-size: 14px;

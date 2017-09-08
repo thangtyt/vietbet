@@ -8,7 +8,7 @@
 
 body{
 	font-family: 'Play', sans-serif;
-	background-image: url("/images/backgrounds/1.jpg");
+	background-image: url("/dist/images/1.jpg");
 	background-color: #cccccc;
 }
 p {
